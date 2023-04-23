@@ -45,9 +45,10 @@
                     android:id="@+id/titlePhoto"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Test"
+                    android:text="TestTestTestTestTestTestTestTestTestTestTest"
                     android:textColor="@color/black"
                     android:textSize="18sp"
+                    android:maxWidth="200dp"
 
                     android:textStyle="bold">
 
@@ -61,6 +62,7 @@
                     android:id="@+id/descPhoto"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:maxWidth="200dp"
                     android:text="Test"
                     android:textColor="@color/black"
                     android:textSize="10sp">
